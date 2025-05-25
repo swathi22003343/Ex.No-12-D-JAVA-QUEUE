@@ -66,4 +66,3 @@ public class PriorityQueueDemo {
 ## RESULT:
 Thus the java program to display the added elements from the Priority Queue is executed successfully.
 
-# Ex.No-12-D-JAVA-QUEUE
